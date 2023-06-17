@@ -1,3 +1,3 @@
 # mergeconflict
 
-added this line from b1
+added this line from b2
